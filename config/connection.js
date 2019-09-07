@@ -4,5 +4,5 @@ module.exports = mysql.createConnection({
     port: 3306,
     user: 'ODBC',
     password: 'erwq',
-    database: 'burgers_db'
+    database: 'burger_db'
 });
